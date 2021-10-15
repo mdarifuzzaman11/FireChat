@@ -1,4 +1,4 @@
-# Tesla Website Clone
+#  Fire Chat Application
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mdarifuzzaman11/FireChat?style=for-the-badge) 
 ![APM](https://img.shields.io/apm/l/test?style=for-the-badge)
