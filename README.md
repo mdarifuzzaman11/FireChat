@@ -8,6 +8,8 @@
 
 ## Live Demo
 **https://firechatbyarif.netlify.app**
+Username: Guest
+Password: 1234
 <br>
 
 <p align="center">
