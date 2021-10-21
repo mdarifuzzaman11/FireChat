@@ -22,9 +22,7 @@ Password: 1234
 
 What I Learned During the Build: Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
 
-With online statuses, great design and functionality, icons telling you who read the message,
-image support, sound notifications, the ability to create multiple rooms, and much more, 
-I have also used PWA to modify the Web App and Turn into a PWA (progressive web application) and can be downloaded as an Nativ Web App.
+With online statuses, great design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms, and much more, I have also used PWA to modify the Web App and Turn into a PWA (progressive web application) and can be downloaded as a Native Web App.
 
 
 ## Getting Started
